@@ -1,8 +1,10 @@
 <h1 align="center">김대영</h1>
 
 <p align="center">
-  AI Developer · Computer Vision · On-Device AI
+  <img src="./dev-room.png" width="600"/>
 </p>
+
+<h3 align="center">AI Developer · Computer Vision · On-Device AI · LLM</h3>
 
 <p align="center">
   사용자 관점에서 문제를 정의하고, 실제 환경에서 동작하는 AI 서비스를 만드는 개발자입니다.
