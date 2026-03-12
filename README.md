@@ -1,8 +1,8 @@
-<h1 align="center">김대영</h1>
-
 <p align="center">
-  <img src="./dev-room.png" width="600"/>
+  <img src="./dev-room.png" width="600" />
 </p>
+
+<h1 align="center">Hello World 👋 I'm Daeyoung</h1>
 
 <h3 align="center">AI Developer · Computer Vision · On-Device AI · LLM</h3>
 
