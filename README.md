@@ -5,96 +5,89 @@
 </p>
 
 <p align="center">
-  사용자 관점에서 문제를 해결하는 AI 서비스를 만들고 있습니다.
+  사용자 관점에서 문제를 정의하고, 실제 환경에서 동작하는 AI 서비스를 만드는 개발자입니다.
 </p>
 
 <p align="center">
-  <a href="mailto:i970829@naver.com">Email</a> ·
-  <a href="https://github.com/KDY0829">GitHub</a> ·
-  <a href="https://www.notion.so/2e5441f66d78810683b3fa59263b5dfa">Portfolio</a>
+  <a href="mailto:i970829@naver.com">
+    <img src="https://img.shields.io/badge/Email-i970829%40naver.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/KDY0829">
+    <img src="https://img.shields.io/badge/GitHub-KDY0829-0D1117?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.notion.so/2e5441f66d78810683b3fa59263b5dfa">
+    <img src="https://img.shields.io/badge/Portfolio-Notion-0D1117?style=flat-square&logo=notion&logoColor=white" />
+  </a>
 </p>
 
 <br />
 
-## About
+## About Me
 
-- 다양한 AI 기술을 배우고 실제 프로젝트에 적용하고 있습니다.
-- Computer Vision, On-Device AI, 강화학습에 관심이 있습니다.
-- 기능 구현에 그치지 않고 사용자 경험까지 고려한 개발을 지향합니다.
+- Computer Vision과 On-Device AI를 중심으로 프로젝트를 진행하고 있습니다.
+- 모델 구현에 그치지 않고, 실제 사용자 문제를 해결하는 서비스까지 연결하는 개발을 지향합니다.
+- 특히 접근성, 실용성, 사용자 경험을 함께 고려하는 AI 서비스에 관심이 있습니다.
 
 <br />
 
 ## Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,kotlin" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,express,fastapi" />
 </p>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,mysql,mongodb,docker,linux,git,github,vscode" />
 </p>
 
 <br />
 
 ## Featured Projects
 
-### UniGen
-AI 기반 콘텐츠 생성 및 관리 웹 서비스
+<details open>
+  <summary><b>🧠 UniGen — AI 기반 콘텐츠 생성 플랫폼</b></summary>
+  <br />
 
-- Frontend: React
-- Backend: Node.js, Express
-- Database: MongoDB
+  AI를 활용해 콘텐츠를 생성하고 관리할 수 있는 웹 서비스입니다.
 
-**Repository**
-- [unigen-front](https://github.com/A3BO2/unigen-front)
-- [unigen-back](https://github.com/A3BO2/unigen-back)
+  <p align="center">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=A3BO2&repo=unigen-front&theme=tokyonight&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=A3BO2&repo=unigen-back&theme=tokyonight&hide_border=true" />
+  </p>
 
-### GrabIT
-모바일 환경에서 상품 정보를 탐색하고 관리할 수 있는 Android 애플리케이션
+  <b>Tech</b><br />
+  React · Node.js · Express · MongoDB
 
-- Kotlin
-- Android
-- REST API
+  <br /><br />
+  <b>Repository</b><br />
+  - <a href="https://github.com/A3BO2/unigen-front">Frontend</a><br />
+  - <a href="https://github.com/A3BO2/unigen-back">Backend</a>
+</details>
 
-**Repository**
-- [GrabIT-Android](https://github.com/KDT-GrabIT/GrabIT-Android)
+<br />
 
-### 2048 Reinforcement Learning
-2048 게임 플레이 성능 향상을 목표로 한 강화학습 프로젝트
+<details open>
+  <summary><b>📱 GrabIT — 시각장애인을 위한 온디바이스 AI 쇼핑 도우미</b></summary>
+  <br />
 
-- Python
-- Reinforcement Learning
-- N-Tuple Network
+  시각장애인이 상품 정보를 더 쉽게 인식하고 활용할 수 있도록 돕는 온디바이스 AI 기반 Android 애플리케이션입니다.
+  접근성과 실사용성을 중심으로, 모바일 환경에서 직접 동작하는 AI 서비스 구현에 초점을 맞춘 프로젝트입니다.
 
-### AI Concentration Detection
-표정, 시선, 자세 정보를 활용한 집중도 분석 프로젝트
+  <p align="center">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KDT-GrabIT&repo=GrabIT-Android&theme=tokyonight&hide_border=true" />
+  </p>
 
-- Python
-- Computer Vision
-- MediaPipe
-- CNN
+  <b>Tech</b><br />
+  Kotlin · Android · On-Device AI
+
+  <br /><br />
+  <b>Repository</b><br />
+  - <a href="https://github.com/KDT-GrabIT/GrabIT-Android">GrabIT-Android</a>
+</details>
 
 <br />
 
@@ -123,13 +116,29 @@ Automotive Engineering
 
 <br />
 
-## Stats
+## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KDY0829&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDY0829&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KDY0829&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDY0829&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDY0829&theme=github-compact&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=KDY0829&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDY0829&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&area_color=2f334d" />
+</p>
+
+<br />
+
+## Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KDY0829/KDY0829/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KDY0829/KDY0829/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/KDY0829/KDY0829/output/github-snake.svg" />
+  </picture>
 </p>
