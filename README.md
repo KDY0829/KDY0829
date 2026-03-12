@@ -49,10 +49,11 @@
 ## Featured Projects
 
 <details open>
-  <summary><b>🧠 UniGen — AI 기반 콘텐츠 생성 플랫폼</b></summary>
+  <summary><b>🧠 UniGen — 시니어를 위한 SNS 플랫폼</b></summary>
   <br />
 
-  AI를 활용해 콘텐츠를 생성하고 관리할 수 있는 웹 서비스입니다.
+  디지털 환경에 익숙하지 않은 시니어도 더 쉽게 소통하고 콘텐츠를 접할 수 있도록 기획한 SNS 플랫폼입니다.  
+  사용성과 접근성을 고려한 UI/UX와, 실제 서비스 흐름을 구현하는 데 초점을 맞춘 프로젝트입니다.
 
   <p align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=A3BO2&repo=unigen-front&theme=tokyonight&hide_border=true" />
@@ -74,7 +75,7 @@
   <summary><b>📱 GrabIT — 시각장애인을 위한 온디바이스 AI 쇼핑 도우미</b></summary>
   <br />
 
-  시각장애인이 상품 정보를 더 쉽게 인식하고 활용할 수 있도록 돕는 온디바이스 AI 기반 Android 애플리케이션입니다.
+  시각장애인이 상품 정보를 더 쉽게 인식하고 활용할 수 있도록 돕는 온디바이스 AI 기반 Android 애플리케이션입니다.  
   접근성과 실사용성을 중심으로, 모바일 환경에서 직접 동작하는 AI 서비스 구현에 초점을 맞춘 프로젝트입니다.
 
   <p align="center">
