@@ -22,7 +22,7 @@
   </a>
 
   <a href="tel:01049460829">
-    <img src="https://img.shields.io/badge/Phone-010--1234--5678-34A853?style=for-the-badge&logo=googlevoice&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Phone-010--4946--0829-34A853?style=for-the-badge&logo=googlevoice&logoColor=white"/>
   </a>
 
   <a href="https://github.com/KDY0829">
