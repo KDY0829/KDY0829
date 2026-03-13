@@ -18,13 +18,19 @@
 
 <p align="center">
   <a href="mailto:i970829@naver.com">
-    <img src="https://img.shields.io/badge/Email-i970829%40naver.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-i970829%40naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="tel:01049460829">
+    <img src="https://img.shields.io/badge/Phone-010--1234--5678-34A853?style=for-the-badge&logo=googlevoice&logoColor=white"/>
+  </a>
+
   <a href="https://github.com/KDY0829">
-    <img src="https://img.shields.io/badge/GitHub-KDY0829-0D1117?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-KDY0829-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.notion.so/2e5441f66d78810683b3fa59263b5dfa?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-Notion-0D1117?style=flat-square&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
 
@@ -127,6 +133,19 @@
 - AI 데이터 분석
 - 딥러닝 기반 객체 탐지
 - AI 서비스 개발 실습
+
+<br />
+
+## Organizations
+
+<p align="center">
+  <a href="https://github.com/A3BO2">
+    <img src="https://img.shields.io/badge/A3BO2-Organization-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/KDT-GrabIT">
+    <img src="https://img.shields.io/badge/KDT--GrabIT-Organization-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 <br />
 
