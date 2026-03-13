@@ -23,7 +23,7 @@
   <a href="https://github.com/KDY0829">
     <img src="https://img.shields.io/badge/GitHub-KDY0829-0D1117?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.notion.so/ai-_-1-294441f66d78816092d2e37d2b5d53e0?source=copy_link">
+  <a href="https://www.notion.so/2e5441f66d78810683b3fa59263b5dfa?source=copy_link">
     <img src="https://img.shields.io/badge/Portfolio-Notion-0D1117?style=flat-square&logo=notion&logoColor=white" />
   </a>
 </p>
