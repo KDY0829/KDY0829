@@ -82,7 +82,7 @@
 ## Featured Projects
 
 <details open>
-  <summary><b>🧠 UniGen — 시니어를 위한 SNS 플랫폼</b></summary>
+  <summary><h2>🧠 UniGen — 시니어를 위한 SNS 플랫폼</h2></summary>
   <br />
 
   디지털 환경에 익숙하지 않은 시니어도 더 쉽게 소통하고 콘텐츠를 접할 수 있도록 기획한 SNS 플랫폼입니다.  
@@ -94,7 +94,7 @@
   </p>
 
   <b>Tech</b><br />
-  React · Node.js · Express · MongoDB
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) · ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square) · ![Express](https://img.shields.io/badge/Express-000000?style=flat-square) · ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
 
   <br /><br />
   <b>Repository</b><br />
@@ -105,7 +105,7 @@
 <br />
 
 <details open>
-  <summary><b>📱 GrabIT — 시각장애인을 위한 온디바이스 AI 쇼핑 도우미</b></summary>
+  <summary><h2>📱 GrabIT — 시각장애인을 위한 온디바이스 AI 쇼핑 도우미</h2></summary>
   <br />
 
   시각장애인이 상품 정보를 더 쉽게 인식하고 활용할 수 있도록 돕는 온디바이스 AI 기반 Android 애플리케이션입니다.  
@@ -113,14 +113,17 @@
 
   <p align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KDT-GrabIT&repo=GrabIT-Android&theme=tokyonight&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KDT-GrabIT&repo=Grabitwebsite&theme=tokyonight&hide_border=true" />
   </p>
+  
 
   <b>Tech</b><br />
-  Kotlin · Android · On-Device AI
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square) · ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square) · ![On-Device AI](https://img.shields.io/badge/On--Device_AI-412991?style=flat-square&logo=tensorflow&logoColor=white)
 
   <br /><br />
   <b>Repository</b><br />
   - <a href="https://github.com/KDT-GrabIT/GrabIT-Android">GrabIT-Android</a>
+  - <a href="https://github.com/KDT-GrabIT/Grabitwebsite">Grabitwebsite</a>
 </details>
 
 <br />
@@ -159,7 +162,7 @@ Automotive Engineering
 
 ## Certification
 
-- SQLD
+![SQLD](https://img.shields.io/badge/SQLD-Certified-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <br />
 
