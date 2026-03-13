@@ -38,21 +38,40 @@
 
 <br />
 
-## Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,express,fastapi" />
-</p>
+### 🤖 AI / Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,mysql,mongodb,docker,linux,git,github,vscode" />
-</p>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 
-<br />
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-34A853?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square)
+
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square)
 
 ## Featured Projects
 
