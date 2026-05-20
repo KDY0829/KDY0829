@@ -137,8 +137,8 @@
   접근성과 실사용성을 중심으로, 모바일 환경에서 직접 동작하는 AI 서비스 구현에 초점을 맞춘 프로젝트입니다.
 
   <p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KDT-GrabIT&repo=GrabIT-Android&theme=tokyonight&hide_border=true" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KDT-GrabIT&repo=Grabitwebsite&theme=tokyonight&hide_border=true" />
+    <img src="./assets/grabit-detection-demo.jpg" width="32%" alt="GrabIT 온디바이스 상품 인식 및 손 추적 화면" />
+    <img src="./assets/grabit-service-overview.png" width="58%" alt="GrabIT 서비스 소개 화면" />
   </p>
 
   <b>Tech</b><br />
@@ -160,8 +160,7 @@
   사용성과 접근성을 고려한 UI/UX와, 실제 서비스 흐름을 구현하는 데 초점을 맞춘 프로젝트입니다.
 
   <p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=A3BO2&repo=unigen-front&theme=tokyonight&hide_border=true" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=A3BO2&repo=unigen-back&theme=tokyonight&hide_border=true" />
+    <img src="./assets/unigen-dual-mode.png" width="90%" alt="UniGen 일반 모드와 시니어 모드 비교 화면" />
   </p>
 
   <b>Tech</b><br />
