@@ -91,7 +91,11 @@
   <br />
 
   <p align="center">
-    <img src="./assets/sisicallcall-card.svg" width="100%" alt="시시콜콜 project card" />
+  <img src="./assets/sisicallcall-dashboard.png" width="90%" alt="시시콜콜 관리자 대시보드" />
+  </p>
+
+  <p align="center">
+    <img src="./assets/sisicallcall-rag-admin.gif" width="90%" alt="시시콜콜 RAG 지식 관리 GIF" />
   </p>
 
   전화를 받고, 이해하고, 요약하고, 분석하고, 후속 업무까지 실행하는 AI 음성 고객상담 B2B SaaS 플랫폼입니다.  
