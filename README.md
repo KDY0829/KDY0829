@@ -211,6 +211,10 @@
   <summary><h2>🏆 구조물 안정성 추론 공모전 — Dual-View Vision Classification</h2></summary>
   <br />
 
+  <p align="center">
+    <img src="./assets/dacon-leaderboard-result.png" width="90%" alt="DACON 구조물 안정성 추론 공모전 리더보드 16등 결과" />
+  </p>
+
   front / top 두 시점 이미지를 기반으로 구조물의 안정·붕괴 확률을 예측하는 비전 분류 공모전입니다.  
   단순 이미지 분류가 아니라 구조물의 형태, 기울기, 배치 정보를 바탕으로 물리적 안정성을 추론하는 문제로 접근했습니다.
 
