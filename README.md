@@ -245,11 +245,7 @@
   <b>Links</b><br />
   - <a href="https://www.notion.so/364441f66d7881069338cc5170706fff">Notion Portfolio Page</a><br />
   - <a href="https://www.notion.so/80e441f66d7882329eab018d2fa1a8ad">Notion Project Archive</a><br />
-  - <a href="https://github.com/Dacon-contest">GitHub Organization</a><br />
-  - <a href="https://github.com/Dacon-contest/dacon-structure-stability-ai">dacon-structure-stability-ai</a><br />
-  - <a href="https://github.com/Dacon-contest/dacon-data-segmentation_and_train">dacon-data-segmentation_and_train</a><br />
-  - <a href="https://github.com/Dacon-contest/dual-view-stability-classifier">dual-view-stability-classifier</a><br />
-  - <a href="https://github.com/Dacon-contest/dacon-structural-stability">dacon-structural-stability</a>
+  - <a href="https://github.com/Dacon-contest">GitHub Organization</a>
 </details>
 
 <br />
