@@ -155,6 +155,55 @@
 
 <br />
 
+## AI Competition
+
+<details open>
+  <summary><h2>🏆 구조물 안정성 추론 공모전 — Dual-View Vision Classification</h2></summary>
+  <br />
+
+  <p align="center">
+    <img src="./assets/dacon-leaderboard-result.png" width="90%" alt="DACON 구조물 안정성 추론 공모전 리더보드 16등 결과" />
+  </p>
+
+  front / top 두 시점 이미지를 기반으로 구조물의 안정·붕괴 확률을 예측하는 비전 분류 공모전입니다.  
+  단순 이미지 분류가 아니라 구조물의 형태, 기울기, 배치 정보를 바탕으로 물리적 안정성을 추론하는 문제로 접근했습니다.
+
+  <br />
+
+  <b>Result</b><br />
+  - 최종 16등 / 상위 4%
+  - 팀 Private LogLoss 0.01903
+  - 5인 팀 프로젝트
+  - 작업 기간: 2026.03.03 ~ 2026.03.30
+
+  <br /><br />
+  <b>My Role</b><br />
+  - 데이터 전처리 및 Segmentation 파이프라인 설계
+  - HSV 스마트 박스 + SAM 2 하이브리드 방식으로 구조물 영역 추출 실험
+  - ConvNeXt 기반 4채널 분류 모델 실험
+  - front / top dual-view 입력 구조와 RGB+Mask 입력 방식 비교
+  - TTA, Temperature Scaling, Prediction Clipping 등 LogLoss 개선 후처리 적용
+
+  <br /><br />
+  <b>Experiment Focus</b><br />
+  - SAM 2, Depth-Anything-v2, SAM 2 + Depth Hybrid, HSV Smart Box + SAM 2 방식 비교
+  - ConvNeXt, Swin Transformer 기반 dual-view fusion 실험
+  - Train / Dev / Test 도메인 차이를 고려한 augmentation 및 calibration 전략 검토
+  - LogLoss 기준에서 과도한 확신을 줄이기 위한 확률 보정 적용
+
+  <br /><br />
+  <b>Tech</b><br />
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) · ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square) · ![timm](https://img.shields.io/badge/timm-111827?style=flat-square) · ![Albumentations](https://img.shields.io/badge/Albumentations-0F766E?style=flat-square) · ![ConvNeXt](https://img.shields.io/badge/ConvNeXt-2563EB?style=flat-square) · ![Swin Transformer](https://img.shields.io/badge/Swin_Transformer-7C3AED?style=flat-square) · ![SAM2](https://img.shields.io/badge/SAM2-111827?style=flat-square)
+
+  <br /><br />
+  <b>Links</b><br />
+  - <a href="https://www.notion.so/364441f66d7881069338cc5170706fff">Notion Portfolio Page</a><br />
+  - <a href="https://github.com/KDY0829/dacon-data-segmentation_and_train">KDY0829/dacon-data-segmentation_and_train</a><br />
+  - <a href="https://github.com/Dacon-contest">GitHub Organization</a>
+</details>
+
+<br />
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -212,54 +261,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square)
-
-<br />
-
-## AI Competition
-
-<details open>
-  <summary><h2>🏆 구조물 안정성 추론 공모전 — Dual-View Vision Classification</h2></summary>
-  <br />
-
-  <p align="center">
-    <img src="./assets/dacon-leaderboard-result.png" width="90%" alt="DACON 구조물 안정성 추론 공모전 리더보드 16등 결과" />
-  </p>
-
-  front / top 두 시점 이미지를 기반으로 구조물의 안정·붕괴 확률을 예측하는 비전 분류 공모전입니다.  
-  단순 이미지 분류가 아니라 구조물의 형태, 기울기, 배치 정보를 바탕으로 물리적 안정성을 추론하는 문제로 접근했습니다.
-
-  <br />
-
-  <b>Result</b><br />
-  - 최종 16등 / 상위 4%
-  - 팀 Private LogLoss 0.01903
-  - 5인 팀 프로젝트
-  - 작업 기간: 2026.03.03 ~ 2026.03.30
-
-  <br /><br />
-  <b>My Role</b><br />
-  - 데이터 전처리 및 Segmentation 파이프라인 설계
-  - HSV 스마트 박스 + SAM 2 하이브리드 방식으로 구조물 영역 추출 실험
-  - ConvNeXt 기반 4채널 분류 모델 실험
-  - front / top dual-view 입력 구조와 RGB+Mask 입력 방식 비교
-  - TTA, Temperature Scaling, Prediction Clipping 등 LogLoss 개선 후처리 적용
-
-  <br /><br />
-  <b>Experiment Focus</b><br />
-  - SAM 2, Depth-Anything-v2, SAM 2 + Depth Hybrid, HSV Smart Box + SAM 2 방식 비교
-  - ConvNeXt, Swin Transformer 기반 dual-view fusion 실험
-  - Train / Dev / Test 도메인 차이를 고려한 augmentation 및 calibration 전략 검토
-  - LogLoss 기준에서 과도한 확신을 줄이기 위한 확률 보정 적용
-
-  <br /><br />
-  <b>Tech</b><br />
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) · ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square) · ![timm](https://img.shields.io/badge/timm-111827?style=flat-square) · ![Albumentations](https://img.shields.io/badge/Albumentations-0F766E?style=flat-square) · ![ConvNeXt](https://img.shields.io/badge/ConvNeXt-2563EB?style=flat-square) · ![Swin Transformer](https://img.shields.io/badge/Swin_Transformer-7C3AED?style=flat-square) · ![SAM2](https://img.shields.io/badge/SAM2-111827?style=flat-square)
-
-  <br /><br />
-  <b>Links</b><br />
-  - <a href="https://www.notion.so/364441f66d7881069338cc5170706fff">Notion Portfolio Page</a><br />
-  - <a href="https://github.com/Dacon-contest">GitHub Organization</a>
-</details>
 
 <br />
 
