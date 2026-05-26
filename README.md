@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-KDY0829-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.notion.so/3ec441f66d7882b8ac7481c013243af6?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Click%20to%20View-7C3AED?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
 
