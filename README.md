@@ -33,77 +33,8 @@
 
 ## 📌 Pinned
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>☎️ 시시콜콜</h3>
-      <p>AI 음성 상담, RAG, Post-Call 분석, 외부 업무도구 연동을 하나로 연결한 B2B 고객상담 SaaS 플랫폼</p>
-      <p><a href="https://github.com/KDY0829/sisicallcall"><b>Repository 바로가기 →</b></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat-square" />
-        <img src="https://img.shields.io/badge/RAG-412991?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📱 GrabIT Android</h3>
-      <p>시각장애인과 저시력자를 위한 온디바이스 AI 기반 실시간 상품 인식 및 음성 안내 Android 앱</p>
-      <p><a href="https://github.com/KDY0829/GrabIT-Android"><b>Repository 바로가기 →</b></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Android-34A853?style=flat-square" />
-        <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧪 YOLOX-Nano Training</h3>
-      <p>GrabIT의 온디바이스 상품 인식을 위한 YOLOX-Nano 기반 상품 이미지 학습 실험 레포지토리</p>
-      <p><a href="https://github.com/KDY0829/train_YOLOX-Nano_by_640x640"><b>Repository 바로가기 →</b></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square" />
-        <img src="https://img.shields.io/badge/YOLOX-111827?style=flat-square" />
-        <img src="https://img.shields.io/badge/Object_Detection-2563EB?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🌐 GrabIT Website</h3>
-      <p>온디바이스 AI 쇼핑 도우미 GrabIT의 서비스 가치와 주요 기능을 소개하는 공식 웹사이트</p>
-      <p><a href="https://github.com/KDY0829/Grabitwebsite"><b>Repository 바로가기 →</b></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧠 UniGen Frontend</h3>
-      <p>일반 사용자와 시니어 사용자를 함께 고려한 Dual Mode SNS 플랫폼의 React 프론트엔드</p>
-      <p><a href="https://github.com/KDY0829/unigen-front"><b>Repository 바로가기 →</b></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Senior_UX-0F766E?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🛠 UniGen Backend</h3>
-      <p>UniGen SNS 플랫폼의 인증, 피드, 이미지 업로드, AI 콘텐츠 생성을 처리하는 Node.js 백엔드</p>
-      <p><a href="https://github.com/KDY0829/unigen-back"><b>Repository 바로가기 →</b></a></p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
-        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- START: REPO-PINS -->
+<!-- END: REPO-PINS -->
 
 <br />
 
