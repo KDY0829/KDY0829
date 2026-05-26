@@ -322,7 +322,14 @@ Automotive Engineering
 ## Certification
 
 ![SQLD](https://img.shields.io/badge/SQLD-Certified-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Fundamentals](https://img.shields.io/badge/Azure_Data_Fundamentals-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Fundamentals](https://img.shields.io/badge/Azure_AI_Fundamentals-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
+- SQL 개발자(SQLD) `2025.12`
+- Microsoft Azure Fundamentals `2025.04`
+- Microsoft Azure Data Fundamentals `2025.04`
+- Microsoft Azure AI Fundamentals `2025.02`
 <br />
 
 ## Contributions
