@@ -1,0 +1,56 @@
+name: update-readme-order
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-readme-order.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Move AI Competition above Tech Stack and add repo link
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          p = Path('README.md')
+          s = p.read_text(encoding='utf-8')
+
+          link = '  - <a href="https://github.com/KDY0829/dacon-data-segmentation_and_train">KDY0829/dacon-data-segmentation_and_train</a><br />'
+          org = '  - <a href="https://github.com/Dacon-contest">GitHub Organization</a>'
+          if link not in s:
+              s = s.replace(org, link + '\n' + org)
+
+          ai = '## AI Competition'
+          tech = '## 🛠 Tech Stack'
+          exp = '## Experience'
+
+          ai_start = s.index(ai)
+          tech_start = s.index(tech)
+          exp_start = s.index(exp)
+
+          if tech_start < ai_start:
+              tech_block = s[tech_start:ai_start]
+              ai_block = s[ai_start:exp_start]
+              s = s[:tech_start] + ai_block + tech_block + s[exp_start:]
+
+          p.write_text(s, encoding='utf-8')
+          PY
+      - name: Commit changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No README changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Move AI competition above tech stack"
+          git push
