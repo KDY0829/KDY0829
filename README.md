@@ -15,10 +15,16 @@
   <a href="https://github.com/KDY0829">
     <img src="https://img.shields.io/badge/GitHub-KDY0829-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/3ec441f66d7882b8ac7481c013243af6?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-Click%20to%20View-7C3AED?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="680">
+      <a href="https://www.notion.so/3ec441f66d7882b8ac7481c013243af6?source=copy_link"><b>📘 Notion Portfolio Page</b></a><br />
+      <sub>포트폴리오 상세 문서 · 프로젝트 · 공모전 · 기술 스택 보기</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
