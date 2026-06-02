@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <td align="center" width="680">
-      <a href="https://www.notion.so/3ec441f66d7882b8ac7481c013243af6?source=copy_link"><b>📘 Notion Portfolio Page</b></a><br />
+      <a href="https://galvanized-chanter-678.notion.site/2e5441f66d78810683b3fa59263b5dfa?source=copy_link"><b>📘 Notion Portfolio Page</b></a><br />
       <sub>포트폴리오 상세 문서 · 프로젝트 · 공모전 · 기술 스택 보기</sub>
     </td>
   </tr>
