@@ -40,9 +40,9 @@
 ## 📌 Pinned
 
 <!-- START: REPO-PINS -->
-[![sisicallcall pin img](imgs/0.svg)](https://github.com/KDY0829/sisicallcall) [![GrabIT-Android pin img](imgs/1.svg)](https://github.com/KDY0829/GrabIT-Android) 
-[![train_YOLOX-Nano_by_640x640 pin img](imgs/2.svg)](https://github.com/KDY0829/train_YOLOX-Nano_by_640x640) [![unigen-back pin img](imgs/3.svg)](https://github.com/KDY0829/unigen-back) 
-[![unigen-front pin img](imgs/4.svg)](https://github.com/KDY0829/unigen-front) [![dacon-data-segmentation_and_train pin img](imgs/5.svg)](https://github.com/KDY0829/dacon-data-segmentation_and_train) 
+[![sisicallcall pin img](https://raw.githubusercontent.com/KDY0829/KDY0829/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/KDY0829/sisicallcall) [![GrabIT-Android pin img](https://raw.githubusercontent.com/KDY0829/KDY0829/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/KDY0829/GrabIT-Android) 
+[![train_YOLOX-Nano_by_640x640 pin img](https://raw.githubusercontent.com/KDY0829/KDY0829/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/KDY0829/train_YOLOX-Nano_by_640x640) [![unigen-back pin img](https://raw.githubusercontent.com/KDY0829/KDY0829/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/KDY0829/unigen-back) 
+[![unigen-front pin img](https://raw.githubusercontent.com/KDY0829/KDY0829/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/KDY0829/unigen-front) [![dacon-data-segmentation_and_train pin img](https://raw.githubusercontent.com/KDY0829/KDY0829/refs/heads/generated/repo_pin_imgs/5.svg)](https://github.com/KDY0829/dacon-data-segmentation_and_train) 
 <!-- END: REPO-PINS -->
 
 <br />
