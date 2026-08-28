@@ -164,6 +164,46 @@
 ## AI Competition
 
 <details open>
+  <summary><h2>🏆 2026 충북 공공데이터·AI 활용 창업경진대회 — GrabIT</h2></summary>
+  <br />
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/KDY0829/GrabIT-Android/master/assets/Award.jpg" width="31%" alt="GrabIT 우수상 수상" />
+    <img src="https://raw.githubusercontent.com/KDY0829/GrabIT-Android/master/assets/Panel.jpg" width="31%" alt="GrabIT 전시 패널" />
+    <img src="https://raw.githubusercontent.com/KDY0829/GrabIT-Android/master/assets/Team.jpg" width="31%" alt="GrabIT 팀 사진" />
+  </p>
+
+  KDT 팀 프로젝트로 시작한 GrabIT을 공공데이터 기반 서비스로 고도화해 출품한 창업경진대회 프로젝트입니다.  
+  온디바이스 상품 탐지, 손 추적, 방향·거리 안내에 더해 공공데이터 라벨 보정, Optical Flow, TitaNet-S 화자검증, E5 의미 검색 등을 보완했습니다.
+
+  <br />
+
+  <b>Result</b><br />
+  - 🏆 우수상 수상
+  - 4인 팀 프로젝트
+  - 공모전 기간: 2026.04.13 ~ 2026.08.20
+
+  <br /><br />
+  <b>Competition Enhancement</b><br />
+  - 공공 상품 이미지 데이터의 기존 bounding box 검토 및 Roboflow Smart Labeling 기반 재보정
+  - YOLOX-Nano 온디바이스 탐지 + Optical Flow 기반 위치 추적 보완
+  - TitaNet-S 기반 화자검증을 STT 앞단에 적용해 주변 음성 오작동 감소
+  - 로컬 상품명·별칭 우선 검색 후 E5 의미 검색 fallback 구조 적용
+  - TTS · 비프음 · 진동을 결합한 접근성 피드백 강화
+
+  <br /><br />
+  <b>Tech</b><br />
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square) · ![YOLOX](https://img.shields.io/badge/YOLOX-111827?style=flat-square) · ![LiteRT](https://img.shields.io/badge/LiteRT-FF6F00?style=flat-square) · ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square) · ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square) · ![Speaker Verification](https://img.shields.io/badge/TitaNet--S-0F766E?style=flat-square) · ![E5](https://img.shields.io/badge/E5_Embedding-7C3AED?style=flat-square)
+
+  <br /><br />
+  <b>Links</b><br />
+  - <a href="https://github.com/KDY0829/GrabIT-Android">GitHub — KDY0829/GrabIT-Android</a><br />
+  - <a href="https://app.notion.com/p/3ca441f66d7881f38e21fe4d08f36e9f">Notion — 공모전 상세 정리</a>
+</details>
+
+<br />
+
+<details open>
   <summary><h2>🏆 구조물 안정성 추론 공모전 — Dual-View Vision Classification</h2></summary>
   <br />
 
